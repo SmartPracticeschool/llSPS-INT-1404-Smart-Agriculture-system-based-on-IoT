@@ -2,7 +2,7 @@
 Smart Agriculture system based on IoT
 
 https://www.youtube.com/watch?v=pKtWg3mCqr4&feature=youtu.be 
-YouTube video link
+Project demo YouTube video link
 
 
 
